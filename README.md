@@ -1,10 +1,6 @@
 # awesome-php
 收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需...
 
----
-
-- 这个列表中的内容有来自 [awesome-php](https://github.com/ziadoz/awesome-php) 的翻译, 有来自开发者周刊以及个人的积累等.
-- 一个前端组件的列表 [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) 推荐
 
 ---
 
